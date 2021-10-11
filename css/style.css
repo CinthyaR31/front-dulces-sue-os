@@ -1,0 +1,19 @@
+.bg-color-menu {
+    background-color: #f7ebed !important;
+}
+
+.center-items {
+    flex-direction: column;
+}
+
+footer {
+    background: #f7ebed;
+}
+
+#container-jumbotron{
+    background: #f7ebed;
+}
+
+ul.container-redes-sociales li  i{
+    font-size: 2em;
+}
